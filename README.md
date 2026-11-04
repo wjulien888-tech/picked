@@ -1,4 +1,4 @@
-# Picked：AI & human 工作笔记本
+# Picked：AI & Human 工作笔记本
 
 **聊天、摘录、编辑、审阅，在同一个工作台完成。**
 
