@@ -19,3 +19,6 @@
  #proposalBody>textarea{max-height:40dvh}
  #proposalBody .review-actions{position:sticky;bottom:-24px;z-index:3;background:var(--bg);padding:12px 0;margin-bottom:-12px;border-top:1px solid var(--line)}
 }
+
+/* Picked identity: a selected page, shared across brand and assistant. */
+.brand-mark{background:transparent;color:var(--accent);border-radius:0;font-style:normal}.brand-mark svg{width:32px;height:32px}.welcome-mark{display:inline-flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:18px;background:var(--accent-soft);color:var(--accent)}.welcome-mark svg{width:42px;height:42px}.avatar svg{width:21px;height:21px}
