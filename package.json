@@ -4,8 +4,10 @@
   "private": true,
   "description": "由用户掌握知识整理过程的 AI 工作台",
   "scripts": {
-    "test": "node tests/context-selection.cjs && node tests/backup-merge.cjs && node tests/device-key.cjs",
+    "test": "node tests/context-selection.cjs && node tests/backup-merge.cjs && node tests/device-key.cjs && node tests/excerpts.cjs",
     "check": "node --check dist/app.js && node --check dist/harness.js"
   },
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  }
 }
